@@ -5,6 +5,8 @@ Cobbled together powershell that uses BlockBench models and Mojang API to create
 Only works with Java Skins at this time  
 Only tested in Java  
 Currently only adds to resource packs, not capable of createing a new resource pack (coming soon)  
+  
+![alt text](https://raw.githubusercontent.com/StrangeCodes8/MiniMates/main/image.png?raw=true)
 
 ## How To
 Run the Powershell  
