@@ -1,0 +1,1 @@
+{"pack": {"description": "\u00a77\u00a7o%packName%\n\u00a77v1.0 \u00a78\u2022 \u00a771.20.x \u00a78\u2022 \u00a7cby Strange", "pack_format": 22}}

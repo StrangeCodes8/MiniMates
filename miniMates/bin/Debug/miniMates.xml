@@ -1,0 +1,125 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+miniMates
+</name>
+</assembly>
+<members>
+<member name="T:miniMates.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:miniMates.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:miniMates.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:miniMates.My.Resources.Resources.baseMini">
+<summary>
+  Looks up a localized string similar to {
+	&quot;credit&quot;: &quot;Made with Blockbench&quot;,
+	&quot;texture_size&quot;: [32, 32],
+	&quot;textures&quot;: {
+		&quot;0&quot;: &quot;texturePath&quot;,
+		&quot;particle&quot;: &quot;texturePath&quot;
+	},
+	&quot;elements&quot;: [
+		{
+			&quot;name&quot;: &quot;bodyInner&quot;,
+			&quot;from&quot;: [6, 0, 7],
+			&quot;to&quot;: [9, 4, 10],
+			&quot;faces&quot;: {
+				&quot;north&quot;: {&quot;uv&quot;: [5, 5, 7, 8], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;east&quot;: {&quot;uv&quot;: [4, 5, 5, 8], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;south&quot;: {&quot;uv&quot;: [8, 5, 10, 8], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;west&quot;: {&quot;uv&quot;: [7, 5, 8, 8], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;up&quot;: {&quot;uv&quot;: [7, 5, 5, 4], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;down&quot;: {&quot;uv&quot;: [9,  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:miniMates.My.Resources.Resources.baseMini_oldSkin">
+<summary>
+  Looks up a localized string similar to {
+	&quot;credit&quot;: &quot;Made with Blockbench&quot;,
+	&quot;texture_size&quot;: [32, 32],
+	&quot;textures&quot;: {
+		&quot;0&quot;: &quot;texture&quot;,
+		&quot;particle&quot;: &quot;texture&quot;
+	},
+	&quot;elements&quot;: [
+		{
+			&quot;name&quot;: &quot;body&quot;,
+			&quot;from&quot;: [6, 0, 7],
+			&quot;to&quot;: [9, 4, 10],
+			&quot;faces&quot;: {
+				&quot;north&quot;: {&quot;uv&quot;: [5, 10, 7, 16.5], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;east&quot;: {&quot;uv&quot;: [4, 10, 5, 16.5], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;south&quot;: {&quot;uv&quot;: [8, 10, 10, 16.5], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;west&quot;: {&quot;uv&quot;: [7, 10, 8, 16.5], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;up&quot;: {&quot;uv&quot;: [7, 10, 5, 8], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;down&quot;: {&quot;uv&quot;:  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:miniMates.My.Resources.Resources.baseMini_slim">
+<summary>
+  Looks up a localized string similar to {
+	&quot;credit&quot;: &quot;Made with Blockbench&quot;,
+	&quot;texture_size&quot;: [32, 32],
+	&quot;textures&quot;: {
+		&quot;0&quot;: &quot;texture&quot;,
+		&quot;particle&quot;: &quot;texture&quot;
+	},
+	&quot;elements&quot;: [
+		{
+			&quot;name&quot;: &quot;bodyInner&quot;,
+			&quot;from&quot;: [6, 0, 7],
+			&quot;to&quot;: [9, 4, 10],
+			&quot;faces&quot;: {
+				&quot;north&quot;: {&quot;uv&quot;: [5, 5, 7, 8], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;east&quot;: {&quot;uv&quot;: [4, 5, 5, 8], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;south&quot;: {&quot;uv&quot;: [8, 5, 10, 8], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;west&quot;: {&quot;uv&quot;: [7, 5, 8, 8], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;up&quot;: {&quot;uv&quot;: [7, 5, 5, 4], &quot;texture&quot;: &quot;#0&quot;},
+				&quot;down&quot;: {&quot;uv&quot;: [9, 4, 7, 5] [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:miniMates.My.Resources.Resources.blacklayer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:miniMates.My.Resources.Resources.blacklayer_old">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:miniMates.My.Resources.Resources.blacklayer_slim">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:miniMates.My.Resources.Resources.emptyblockjson">
+<summary>
+  Looks up a localized string similar to {&quot;sources&quot;: []}.
+</summary>
+</member>
+<member name="P:miniMates.My.Resources.Resources.emptyItemJson">
+<summary>
+  Looks up a localized string similar to {&quot;overrides&quot;: [], &quot;parent&quot;: &quot;item/generated&quot;, &quot;textures&quot;: {&quot;layer0&quot;: &quot;item/paper&quot;}}.
+</summary>
+</member>
+<member name="P:miniMates.My.Resources.Resources.emptyPackmcdata">
+<summary>
+  Looks up a localized string similar to {&quot;pack&quot;: {&quot;description&quot;: &quot;\u00a77\u00a7oMiniMates\n\u00a77v1.0 \u00a78\u2022 \u00a771.20.x \u00a78\u2022 \u00a7cby ProfessorStrange&quot;, &quot;pack_format&quot;: 22}}.
+</summary>
+</member>
+</members>
+</doc>
